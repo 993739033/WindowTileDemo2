@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WindowTileDemo.iml" filepath="$PROJECT_DIR$/WindowTileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WindowTileDemo.iml" filepath="$PROJECT_DIR$/.idea/WindowTileDemo.iml" />
+      <module fileurl="file://E:\Android File\WindowTileDemo\WindowTileDemo.iml" filepath="E:\Android File\WindowTileDemo\WindowTileDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
